@@ -1,0 +1,201 @@
+{
+  "categories": [
+    { "id": "seating", "name": "Seating" },
+    { "id": "tables", "name": "Tables" },
+    { "id": "storage", "name": "Storage" },
+    { "id": "beds", "name": "Beds" },
+    { "id": "decor", "name": "Decor" }
+  ],
+  "items": [
+    {
+      "id": "sofa-01",
+      "name": "Modern Sofa",
+      "category": "seating",
+      "width": 180,
+      "height": 80,
+      "depth": 85,
+      "color": "#6B7280",
+      "model3D": "/models/sofa.glb"
+    },
+    {
+      "id": "sofa-02",
+      "name": "L-Shaped Sofa",
+      "category": "seating",
+      "width": 220,
+      "height": 80,
+      "depth": 160,
+      "color": "#1F2937",
+      "model3D": "/models/l-shaped-sofa.glb"
+    },
+    {
+      "id": "armchair-01",
+      "name": "Armchair",
+      "category": "seating",
+      "width": 80,
+      "height": 85,
+      "depth": 75,
+      "color": "#92400E",
+      "model3D": "/models/armchair.glb"
+    },
+    {
+      "id": "chair-01",
+      "name": "Dining Chair",
+      "category": "seating",
+      "width": 45,
+      "height": 90,
+      "depth": 50,
+      "color": "#78350F",
+      "model3D": "/models/dining-chair.glb"
+    },
+    {
+      "id": "office-chair-01",
+      "name": "Office Chair",
+      "category": "seating",
+      "width": 60,
+      "height": 110,
+      "depth": 60,
+      "color": "#111827",
+      "model3D": "/models/office-chair.glb"
+    },
+    {
+      "id": "coffee-table-01",
+      "name": "Coffee Table",
+      "category": "tables",
+      "width": 120,
+      "height": 45,
+      "depth": 60,
+      "color": "#78350F",
+      "model3D": "/models/coffee-table.glb"
+    },
+    {
+      "id": "dining-table-01",
+      "name": "Dining Table",
+      "category": "tables",
+      "width": 180,
+      "height": 75,
+      "depth": 90,
+      "color": "#451A03",
+      "model3D": "/models/dining-table.glb"
+    },
+    {
+      "id": "side-table-01",
+      "name": "Side Table",
+      "category": "tables",
+      "width": 50,
+      "height": 55,
+      "depth": 50,
+      "color": "#1F2937",
+      "model3D": "/models/side-table.glb"
+    },
+    {
+      "id": "desk-01",
+      "name": "Office Desk",
+      "category": "tables",
+      "width": 140,
+      "height": 75,
+      "depth": 70,
+      "color": "#F5F5F4",
+      "model3D": "/models/desk.glb"
+    },
+    {
+      "id": "bookshelf-01",
+      "name": "Bookshelf",
+      "category": "storage",
+      "width": 80,
+      "height": 180,
+      "depth": 35,
+      "color": "#78350F",
+      "model3D": "/models/bookshelf.glb"
+    },
+    {
+      "id": "cabinet-01",
+      "name": "TV Cabinet",
+      "category": "storage",
+      "width": 160,
+      "height": 50,
+      "depth": 45,
+      "color": "#1F2937",
+      "model3D": "/models/tv-cabinet.glb"
+    },
+    {
+      "id": "wardrobe-01",
+      "name": "Wardrobe",
+      "category": "storage",
+      "width": 150,
+      "height": 200,
+      "depth": 60,
+      "color": "#F5F5F4",
+      "model3D": "/models/wardrobe.glb"
+    },
+    {
+      "id": "dresser-01",
+      "name": "Dresser",
+      "category": "storage",
+      "width": 100,
+      "height": 80,
+      "depth": 45,
+      "color": "#78350F",
+      "model3D": "/models/dresser.glb"
+    },
+    {
+      "id": "bed-single-01",
+      "name": "Single Bed",
+      "category": "beds",
+      "width": 100,
+      "height": 50,
+      "depth": 200,
+      "color": "#F5F5F4",
+      "model3D": "/models/single-bed.glb"
+    },
+    {
+      "id": "bed-double-01",
+      "name": "Double Bed",
+      "category": "beds",
+      "width": 160,
+      "height": 50,
+      "depth": 200,
+      "color": "#6B7280",
+      "model3D": "/models/double-bed.glb"
+    },
+    {
+      "id": "bed-king-01",
+      "name": "King Bed",
+      "category": "beds",
+      "width": 200,
+      "height": 50,
+      "depth": 210,
+      "color": "#1F2937",
+      "model3D": "/models/king-bed.glb"
+    },
+    {
+      "id": "plant-01",
+      "name": "Floor Plant",
+      "category": "decor",
+      "width": 40,
+      "height": 120,
+      "depth": 40,
+      "color": "#166534",
+      "model3D": "/models/plant.glb"
+    },
+    {
+      "id": "lamp-01",
+      "name": "Floor Lamp",
+      "category": "decor",
+      "width": 35,
+      "height": 160,
+      "depth": 35,
+      "color": "#F59E0B",
+      "model3D": "/models/floor-lamp.glb"
+    },
+    {
+      "id": "rug-01",
+      "name": "Area Rug",
+      "category": "decor",
+      "width": 200,
+      "height": 5,
+      "depth": 150,
+      "color": "#7C3AED",
+      "model3D": "/models/rug.glb"
+    }
+  ]
+}
